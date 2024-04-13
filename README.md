@@ -20,3 +20,5 @@ Discord：`aba0122`
 
 <!-- tools:
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OuChiaYun&layout=compact)
