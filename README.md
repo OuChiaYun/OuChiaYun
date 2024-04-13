@@ -18,9 +18,7 @@ Discord：`aba0122`
 
 ![](https://github-readme-stats.vercel.app/api?username=OuChiaYun&include_all_commits=true&rank_icon=github&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OuChiaYun&layout=compact&langs_count=6&hide=Batchfile)
+
 <!-- tools:
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OuChiaYun&layout=donut&&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OuChiaYun)](https://github.com/anuraghazra/github-readme-stats)
