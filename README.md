@@ -16,8 +16,7 @@ Discord：`aba0122`
 
 ### Github Stats
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=OuChiaYun&include_all_commits=true&rank_icon=github&show_icons=true) -->
+![](https://github-readme-stats.vercel.app/api?username=OuChiaYun&include_all_commits=true&rank_icon=github&show_icons=true)
 
 <!-- tools:
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
