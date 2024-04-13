@@ -8,7 +8,7 @@
 
 ### 聯繫我
 
-個人網站：[OuChiaYun.github.io](https://OuChiaYun.github.io/)
+個人網站：[OuChiaYun.github](https://github.com/OuChiaYun)
 
 信箱：[j312079@gmail.com](sigtunatw@gmail.com)
 
@@ -22,3 +22,5 @@ Discord：`aba0122`
 https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#showing-icons -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OuChiaYun&layout=donut&&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OuChiaYun)](https://github.com/anuraghazra/github-readme-stats)
